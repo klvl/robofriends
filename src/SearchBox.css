@@ -1,0 +1,7 @@
+input {
+    outline: none;
+}
+
+input::placeholder {
+    font-family: 'Gemunu Libre', sans-serif;
+}
